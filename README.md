@@ -106,9 +106,4 @@ Create a high-quality, community-driven educational repository to help Go learne
 
 ---
 
-💡 _Contributions welcome! Fork the repo and help build the ultimate Go challenge platform._
-
----
-
-GitHub: https://github.com/husamettinarabaci/goDevPath
-Web: https://www.godevpath.com
+💡 _Contributions welcome! Fork the repo and help build the ultimate Go challenge platform
