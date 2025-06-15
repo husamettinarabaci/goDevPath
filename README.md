@@ -8,11 +8,39 @@
 
 ---
 
+# 🐹 Go Full Mastery Path
+
+## 1. `goBasics`
+**Foundations: Syntax, Variables, Functions, Types, and Control Flow**  
+Learn the core of the Go language: short variable declarations, functions, for-loops, type conversion, zero values, and idiomatic code structure.
+
+## 2. `goPractitioner`
+**Intermediate Go: Structs, Interfaces, Error Handling, JSON, Modules**  
+Understand Go's key building blocks: use interfaces for abstraction, manage errors, handle JSON and file I/O, organize projects with modules, and use the standard library effectively.
+
+## 3. `goApplied`
+**Applied Go: Web Servers, CLI Tools, gRPC, Game Dev, Embedded, Plugins**  
+Apply Go in practical scenarios: build RESTful APIs, develop command-line tools with Cobra, create games with Ebiten, write gRPC services, run Go on microcontrollers, and implement plugin systems.
+
+## 4. `goInternals`
+**Deep Go: Memory Model, Escape Analysis, Reflection, Unsafe, Build Tags**  
+Understand Go’s inner workings: analyze memory allocations, leverage reflection, explore unsafe operations, use build constraints, and inspect runtime behavior.
+
+## 5. `goConcurrency`
+**Concurrency Mastery: Channels, Goroutines, Fan-In/Fan-Out, Timeout Patterns**  
+Master Go’s concurrency paradigm: coordinate goroutines using channels, implement fan-in/fan-out patterns, handle timeouts, avoid deadlocks, and detect race conditions.
+
+## 6. `goArchitecture`
+**Architectural Go: Microservices, Monoliths, Event-Driven Systems, Pipelines**  
+Design robust applications: build scalable microservices, monolithic apps with layered structure, event-driven communication, data streaming pipelines, and cross-service observability.
+
+---
+
 ## About This Repository
 
 This repository contains a comprehensive set of 250 Go programming questions and answers, organized into 25 sections. Each section covers a specific topic and contains 10 questions, with both English and Turkish support.
 
-## Sections and Coverage
+## Sections and Coverage (`goBasics`)
 
 The questions are grouped into the following sections, each focusing on a key Go programming topic:
 
@@ -62,7 +90,7 @@ Each question includes:
 - Markdown-exportable Q&A blocks
 
 ---
-## 📚 Sections and Coverage
+## 📚 Sections and Coverage (`goBasics`)
 
 | Section No | Section Title                  | Description                                                        | Questions |
 |------------|-------------------------------|---------------------------------------------------------------------|-----------|
