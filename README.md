@@ -38,7 +38,7 @@ Design robust applications: build scalable microservices, monolithic apps with l
 
 ## About This Repository
 
-This repository contains a comprehensive set of 250 Go programming questions and answers, organized into 25 sections. Each section covers a specific topic and contains 10 questions, with both English and Turkish support.
+This repository contains a comprehensive set of 1500 Go programming questions and answers, organized into 25 sections. Each section covers a specific topic and contains 10 questions, with both English and Turkish support.
 
 ## Sections and Coverage (`goBasics`)
 
