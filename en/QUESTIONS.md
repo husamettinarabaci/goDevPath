@@ -1,10 +1,4 @@
-# The Gopher Initiate
-
-Foundations: Syntax, Variables, Functions, Types, and Control Flow
-
-Build the essential foundation
-
- in Go. Learn type system, variables, functions, control flow, and how to write idiomatic Go code.
+# Questions
 
 ## 1. Getting Started
 ✅ 1. Outputting to the terminal with a basic Go program
@@ -306,14 +300,6 @@ Build the essential foundation
 ✅ 249. Building a microservice in Go
 ✅ 250. Building and deploying a Go web application
 
----
-
-# Certified Gopher
-
-Intermediate Go: Structs, Interfaces, Error Handling, JSON, Modules
-
-Build on your Go foundation. Master structs, interfaces, error handling, JSON, modules, and the standard library for real-world Go development.
-
 ## 26. Structs and Methods
 ❌ 251. Defining structs and their fields
 ❌ 252. Creating methods with value receivers
@@ -601,14 +587,6 @@ Build on your Go foundation. Master structs, interfaces, error handling, JSON, m
 ❌ 498. Avoiding common performance pitfalls
 ❌ 499. Using native code with `cgo` for performance
 ❌ 500. Performance testing and regression detection
-
----
-
-# Applied Go Builder
-
-Applied Go: Web Servers, CLI Tools, gRPC, Game Dev, Embedded, Plugins
-
-Apply Go in practical scenarios: build RESTful APIs, develop command-line tools with Cobra, create games with Ebiten, write gRPC services, run Go on microcontrollers, and implement plugin systems.
 
 ## 51. Building Web Servers with net/http
 ❌ 501. Setting up a basic HTTP server
@@ -910,14 +888,6 @@ Apply Go in practical scenarios: build RESTful APIs, develop command-line tools 
 ❌ 749. Integrating with native libraries
 ❌ 750. Testing cross-platform compatibility
 
----
-
-# Go Core Alchemist
-
-Deep Go: Memory Model, Escape Analysis, Reflection, Unsafe, Build Tags
-
-Understand Go’s inner workings: analyze memory allocations, leverage reflection, explore unsafe operations, use build constraints, and inspect runtime behavior.
-
 ## 76. Go Memory Model
 ❌ 751. Understanding Go’s memory model basics
 ❌ 752. Memory consistency and ordering guarantees
@@ -1217,14 +1187,6 @@ Understand Go’s inner workings: analyze memory allocations, leverage reflectio
 ❌ 998. Case studies of large Go projects
 ❌ 999. Best resources for continued learning
 ❌ 1000. Career growth and opportunities in Go
-
----
-
-# Concurrency Commander
-
-Concurrency Mastery: Channels, Goroutines, Fan-In/Fan-Out, Timeout Patterns
-
-Master Go’s concurrency paradigm: coordinate goroutines using channels, implement fan-in/fan-out patterns, handle timeouts, avoid deadlocks, and detect race conditions.
 
 ## 101. Goroutines Basics
 ❌ 1001. Understanding goroutines and concurrency
@@ -1526,14 +1488,6 @@ Master Go’s concurrency paradigm: coordinate goroutines using channels, implem
 ❌ 1249. Trends in distributed concurrent systems
 ❌ 1250. Preparing for future concurrency challenges
 
----
-
-# Architect of Go Realms
-
-Architectural Go: Microservices, Monoliths, Event-Driven Systems, Pipelines
-
-Design robust applications: build scalable microservices, monolithic apps with layered structure, event-driven communication, data streaming pipelines, and cross-service observability.
-
 ## 126. Microservices Fundamentals
 ❌ 1251. Defining microservices architecture
 ❌ 1252. Designing service boundaries
@@ -1833,5 +1787,3 @@ Design robust applications: build scalable microservices, monolithic apps with l
 ❌ 1498. Cloud-native application deployments
 ❌ 1499. Using Go in fintech, healthcare, and IoT
 ❌ 1500. Future trends and career growth in Go development
-
----

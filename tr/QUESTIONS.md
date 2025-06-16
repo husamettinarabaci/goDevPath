@@ -1,8 +1,4 @@
-# Yeni Gopher Çırağı
-
-Temeller: Söz Dizimi, Değişkenler, Fonksiyonlar, Tipler ve Kontrol Akışı
-
-Go dilinde sağlam bir temel oluşturun. Tip sistemi, değişkenler, fonksiyonlar, kontrol akışı ve idiomatik Go kodu yazmayı öğrenin.
+# Sorular
 
 ## 1. Başlarken
 ✅ 1. Temel bir Go programı ile terminale çıktı verme  
@@ -304,14 +300,6 @@ Go dilinde sağlam bir temel oluşturun. Tip sistemi, değişkenler, fonksiyonla
 ✅ 249. Go ile mikroservis geliştirme
 ✅ 250. Go web uygulamasını derleme ve dağıtma
 
----
-
-# Sertifikalı Gopher
-
-Orta Seviye Go: Structlar, Arayüzler, Hata Yönetimi, JSON, Modüller
-
-Go temelinizi geliştirin. Structlar, arayüzler, hata yönetimi, JSON, modüller ve standart kütüphane ile gerçek dünyada Go geliştirmeyi öğrenin.
-
 ## 26. Structlar ve Metotlar
 ❌ 251. Struct tanımlama ve alanları
 ❌ 252. Değer alıcı ile metot oluşturma
@@ -599,12 +587,6 @@ Go temelinizi geliştirin. Structlar, arayüzler, hata yönetimi, JSON, modülle
 ❌ 498. Yaygın performans tuzaklarından kaçınma
 ❌ 499. Performans için `cgo` ile yerel kod kullanımı
 ❌ 500. Performans testi ve regresyon tespiti
-
----
-
-# Uygulamalı Go Ustası
-
-Go'yu pratik senaryolarda uygulayın: RESTful API'ler oluşturun, Cobra ile komut satırı araçları geliştirin, Ebiten ile oyunlar yazın, gRPC servisleri oluşturun, mikrodenetleyicilerde Go çalıştırın ve eklenti sistemleri kurun.
 
 ## 51. net/http ile Web Sunucuları Oluşturma
 ❌ 501. Temel bir HTTP sunucusu kurma
@@ -906,14 +888,6 @@ Go'yu pratik senaryolarda uygulayın: RESTful API'ler oluşturun, Cobra ile komu
 ❌ 749. Yerel kütüphanelerle entegrasyon
 ❌ 750. Platformlar arası uyumluluğu test etme
 
----
-
-# Go Çekirdek Simyacısı
-
-Derin Go: Bellek Modeli, Kaçış Analizi, Yansıma, Unsafe, Build Tag'leri
-
-Go'nun iç işleyişini anlayın: bellek tahsisini analiz edin, yansımadan yararlanın, unsafe işlemleri keşfedin, derleme kısıtlamalarını kullanın ve çalışma zamanı davranışını inceleyin.
-
 ## 76. Go Bellek Modeli
 ❌ 751. Go’nun bellek modeli temellerini anlamak
 ❌ 752. Bellek tutarlılığı ve sıralama garantileri
@@ -1213,14 +1187,6 @@ Go'nun iç işleyişini anlayın: bellek tahsisini analiz edin, yansımadan yara
 ❌ 998. Büyük Go projelerinden vaka çalışmaları
 ❌ 999. Sürekli öğrenme için en iyi kaynaklar
 ❌ 1000. Go'da kariyer gelişimi ve fırsatlar
-
----
-
-# Paralellik Komutanı
-
-Eşzamanlılık Ustalığı: Channel'lar, Goroutine'ler, Fan-In/Fan-Out, Zaman Aşımı Kalıpları
-
-Go'nun eşzamanlılık paradigmasında ustalaşın: goroutine'leri channel'larla koordine edin, fan-in/fan-out kalıplarını uygulayın, zaman aşımlarını yönetin, deadlock'lardan kaçının ve yarış durumlarını tespit edin.
 
 ## 101. Goroutine Temelleri
 ❌ 1001. Goroutine'leri ve eşzamanlılığı anlamak
@@ -1522,14 +1488,6 @@ Go'nun eşzamanlılık paradigmasında ustalaşın: goroutine'leri channel'larla
 ❌ 1249. Dağıtık eşzamanlı sistemlerde trendler
 ❌ 1250. Gelecekteki eşzamanlılık zorluklarına hazırlık
 
----
-
-# Go Diyarlarının Mimarı
-
-Mimari Go: Mikroservisler, Monolitler, Olay Tabanlı Sistemler, Veri Akışları
-
-Sağlam uygulamalar tasarlayın: ölçeklenebilir mikroservisler, katmanlı monolitik uygulamalar, olay tabanlı iletişim, veri akış boru hatları ve servisler arası gözlemlenebilirlik oluşturun.
-
 ## 126. Mikroservis Temelleri
 ❌ 1251. Mikroservis mimarisini tanımlamak
 ❌ 1252. Servis sınırlarını tasarlamak
@@ -1829,5 +1787,3 @@ Sağlam uygulamalar tasarlayın: ölçeklenebilir mikroservisler, katmanlı mono
 ❌ 1498. Bulut-yerel uygulama dağıtımları
 ❌ 1499. Go'nun fintech, sağlık ve IoT'deki kullanımı
 ❌ 1500. Go geliştirmede gelecek trendler ve kariyer fırsatları
-
----
