@@ -301,16 +301,16 @@
 ✅ 250. Go web uygulamasını derleme ve dağıtma
 
 ## 26. Structlar ve Metotlar
-❌ 251. Struct tanımlama ve alanları
-❌ 252. Değer alıcı ile metot oluşturma
-❌ 253. Pointer alıcı ile metotlar
-❌ 254. Struct gömme ve kalıtım benzeri davranış
-❌ 255. Structlarla arayüz metotları kullanımı
-❌ 256. Struct etiketleri ve yansıma kullanımı
-❌ 257. Structlar için fabrika fonksiyonları
-❌ 258. Struct eşitliği ve karşılaştırma
-❌ 259. Structları JSON ile kullanma
-❌ 260. Structlarda sıfır değerlerle çalışma
+✅ 251. Struct tanımlama ve alanları
+✅ 252. Değer alıcı ile metot oluşturma
+✅ 253. Pointer alıcı ile metotlar
+✅ 254. Struct gömme ve kalıtım benzeri davranış
+✅ 255. Structlarla arayüz metotları kullanımı
+✅ 256. Struct etiketleri ve yansıma kullanımı
+✅ 257. Structlar için fabrika fonksiyonları
+✅ 258. Struct eşitliği ve karşılaştırma
+✅ 259. Structları JSON ile kullanma
+✅ 260. Structlarda sıfır değerlerle çalışma
 
 ## 27. Arayüzlerde Derinleşme
 ❌ 261. Arayüz uygulama kuralları
