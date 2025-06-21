@@ -301,16 +301,16 @@
 ✅ 250. Building and deploying a Go web application
 
 ## 26. Structs and Methods
-❌ 251. Defining structs and their fields
-❌ 252. Creating methods with value receivers
-❌ 253. Methods with pointer receivers
-❌ 254. Struct embedding and inheritance-like behavior
-❌ 255. Using interface methods with structs
-❌ 256. Struct tags and reflection use
-❌ 257. Factory functions for structs
-❌ 258. Struct equality and comparison
-❌ 259. Using structs with JSON marshaling
-❌ 260. Handling zero values in structs
+✅ 251. Defining structs and their fields
+✅ 252. Creating methods with value receivers
+✅ 253. Methods with pointer receivers
+✅ 254. Struct embedding and inheritance-like behavior
+✅ 255. Using interface methods with structs
+✅ 256. Struct tags and reflection use
+✅ 257. Factory functions for structs
+✅ 258. Struct equality and comparison
+✅ 259. Using structs with JSON marshaling
+✅ 260. Handling zero values in structs
 
 ## 27. Interfaces in Depth
 ❌ 261. Interface implementation rules
